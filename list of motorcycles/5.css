@@ -1,0 +1,951 @@
+body {
+   
+    background-color: #000;
+    margin: auto;
+    font-family: Montserrat;
+    height: 100hv;
+}
+
+
+
+
+a {
+    
+    text-decoration: none;
+    color: #fff;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+  
+   
+}
+
+p {
+    
+    margin: 0;
+    
+}
+
+
+
+.nav__link {
+    
+    color: #fff;
+    
+    padding-top: 100px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 35px;
+    
+    
+}
+
+.nav_l_logo
+{
+    width: 50px;
+    height: 50px;
+   
+}
+
+
+
+.nav_l_trash {
+    
+    width: 25px;
+    height: 25px;
+    
+    
+}
+
+.nav__link_a {
+    color: #fff;
+    padding-left: 450px; 
+    padding-right: 440px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 35px;
+    
+    
+}
+
+
+.nav__link_b {
+    
+    color: #fff;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 35px;
+    padding-left: 1100px;
+    
+}
+
+
+
+
+
+.nav_l {
+   
+    padding-top: 15px;
+    padding-left: 145px;
+    position: absolute;
+    
+    
+} 
+
+
+.nav_line {
+    
+    padding-top: 100px;
+    
+    
+}
+
+.fast_travel {
+    
+    display: flex;
+    padding-bottom: 30px;
+}
+
+
+
+
+
+.ft_t {
+    
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 20px;
+    margin: 0;
+}
+
+
+
+
+
+.ft_t:hover {
+    
+    color: #950000;
+    
+    
+}
+
+
+
+
+
+.ft_t1 {
+    
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+
+.ft_t1:hover {
+    
+    color: #950000;
+    
+    
+}
+
+
+
+
+.ft_s {
+    
+    color: #fff;
+    font-size: 25px;
+    padding-top: 28px;
+    padding-left: 20px;
+}
+
+
+
+
+
+.header {
+    
+    display: flex;
+    
+}
+
+
+
+
+
+
+.moto_wall {
+    margin-left: 255px;
+    margin-right: 50px;
+    width: 908px;
+    height: 511px;
+    background: url(../images/title/5.png) no-repeat;
+
+}
+
+
+
+h1 {
+    
+    color: #fff;
+    font-weight: 500;
+    font-size: 45px;
+    margin: 0;
+    line-height: 55px;
+}
+
+
+.moto_name1 {
+    
+    color: #fff;
+    font-weight: 400;
+    font-size: 30px;  
+    padding-top: 35px;
+}
+
+.moto_name2 {
+    
+    color: #fff;
+    font-weight: 400;
+    font-size: 30px;  
+    padding-top: 35px;
+    padding-bottom: 39px;
+}
+
+
+.heafer_b_c {
+    margin-top: 133px;
+    width: 350px;
+    height: 100px;
+    
+    
+
+    
+}
+ 
+
+
+
+
+
+
+.header_button {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border: 2px solid #9B1111;
+    color: #fff;
+    
+}
+
+
+.header_button:hover {
+    
+    background-color: #9B1111;
+    
+    
+}
+
+
+
+
+
+
+.h2_h {
+    
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 55px;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    
+}
+
+
+
+
+
+
+.h2_info {
+    
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+    padding-bottom: 25px;
+}
+
+
+.h2_info1 {
+    
+    
+    margin-left: 255px;
+    
+    
+}
+
+
+
+
+
+.h2_h2 {
+    
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 55px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    
+}
+
+
+
+.info_text {
+    position: absolute;
+    width: 1300px;
+    text-align: center;
+    color: #fff;
+    padding-left: 250px;
+    font-size: 30px;
+    font-weight: 300;
+    padding-bottom: 50px;
+    
+}
+
+
+
+
+
+.h2_fg {
+    
+    color: #fff;
+    margin-top: 330px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 55px;
+}
+
+
+
+
+.h_fg {
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+
+
+.fg1 {
+    margin-left: 150px;
+    width: 500px;
+    height: 300px; 
+    background: url(../images/title/5-1.png)
+    
+    
+}
+
+
+
+
+.fg2 {
+    margin-right: 60px;
+    margin-left: 60px;
+    width: 500px;
+    height: 300px; 
+    background: url(../images/title/5-2.png)
+    
+    
+}
+
+
+
+.fg3 {
+    
+    width: 500px;
+    height: 300px; 
+    background: url(../images/title/5-3.png)
+    
+    
+}
+
+
+
+
+
+
+
+
+body {
+    
+    background-color: #000;
+    margin: auto;
+}
+
+
+
+
+a {
+    
+    text-decoration: none;
+    
+}
+
+
+li {
+    
+     list-style-type: none;
+    
+}
+
+footer {
+    
+     height: 430px; 
+     border-top: 1px solid;
+     border-top-color: #950000;
+}
+
+
+
+
+
+.footer_link_a {
+    
+    font-family: Montserrat;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 100px;
+    margin-bottom: 25px;
+    padding-right: 0px;
+    width: auto;
+    
+}
+
+
+
+
+.footer_link_a:hover {
+    
+    color: #950000;
+  
+}
+
+
+
+.footer_link_b {
+    
+    font-family: Montserrat;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+    margin-left: 0px;
+    padding-left: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 25px;
+    
+    
+}
+
+.footer_link_b_gm {
+    
+    font-family: Montserrat;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 100px;
+    padding-bottom: 65px;
+   
+    
+}
+
+.paragraph555 {
+    
+    color: #fff;
+    font-size: 25px;
+    margin: 0;
+    font-family: Montserrat;
+    font-weight: 600;
+    padding-top: 46px;
+    padding-bottom: 25px;
+    margin-left: 100px;
+    
+}
+
+.col_mnu_footer {
+    
+    display: flex;
+    
+}
+ 
+
+.f_logo_prava {
+    
+    
+    color: #fff;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    padding-top: 98px;
+    padding-left: 195px;
+    
+}
+
+
+
+.footer_link_conf{
+    
+    margin-top: 94px;
+    margin-left: 100px;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #fff;
+}
+
+.f_logo_name {
+    
+    
+    color: #fff;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    padding-left: 240px;
+}
+
+
+.f_logo_img {
+    
+    padding-top: 25px;
+    padding-left: 263px;
+    
+    display: block;
+    margin-right: 20px;
+}
+
+
+.f_media_m {
+    
+    display: flex;
+    
+    
+}
+
+
+
+.f_media {
+    
+    
+    height: 50px;
+    
+    
+    
+}
+
+
+
+
+.f_media_ico1 {
+    
+    
+    position: absolute;
+    padding-left: 150px;
+    padding-right: 100px;
+}
+
+.f_media_ico2 {
+    
+    
+    position: absolute;
+    padding-left: 100px;
+   
+}
+
+
+
+.f_media_ico3 {
+    
+    padding-left: 200px;
+    position: absolute;
+   
+}
+
+
+
+
+
+
+.f_contact {
+    
+    padding-left: 50px;
+    
+} 
+
+
+
+.popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    top : 0;
+    left : 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+
+.popup.open {
+    opacity: 1;
+    visibility: visible;
+}
+
+
+.popup_body {
+  
+  min-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 10px;
+}
+
+.popup_cont {
+    background-color: #333;
+    max-width: 700px;
+    padding: 250px;
+    position: relative;
+}
+
+.close-popup {
+    position: absolute;
+    color : #950000;
+    right: 20px;
+    top : 10px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.popup_title{
+    position: absolute;
+    vertical-align: top;
+    top: 10px;
+    left: 10px;
+    font-size: 30px;
+    color: rgb(247, 247, 247);
+    
+}
+
+.popup_text { 
+    position: absolute;
+    vertical-align: top;
+    top: 170px;
+    left: 250px;
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+    
+}
+
+.motoexpl {
+    width: 90%;
+    height: 90%;
+}
+
+
+
+.opys2 {
+    position: absolute;
+    display: flex;
+    align-items: flex-end;
+    color: #fff;
+    font-size: 30px;
+    border: 2px solid #9B1111;
+    right: 390px;
+    bottom: 10px;
+}
+
+
+
+.buy {
+    position: absolute;
+    display: flex;
+    align-items: flex-end;
+    border: 2px solid #9B1111;
+    color: #fff;
+    bottom: 10px;
+    right: 10px;
+}
+
+
+.buy:hover {
+    
+    background-color: #9B1111;
+    
+    
+}
+
+
+.nav_linea{
+    position: absolute;
+    vertical-align: top;
+    top: 50px;
+    left: 0px;
+    right: 10px;
+    width: 1000px;
+}
+
+
+
+.popup_a {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    top : 0;
+    left : 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+
+.popup_a.open {
+    opacity: 1;
+    visibility: visible;
+}
+
+
+
+.popup_body_a {
+  
+  min-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 10px;
+}
+
+
+
+.popup_cont_a {
+    background-color: rgb(184, 184, 184);
+    max-width: 900px;
+    max-height: 800px;
+    
+   
+    padding: 415px ;
+    padding-left: 550px;
+    position: absolute;
+}
+
+.close-popup_a {
+    position: absolute;
+    color : #950000;
+    right: 20px;
+    top : 10px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+.popup_title_a {
+    position: absolute;
+    vertical-align: top;
+    top: 10px;
+    left: 10px;
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+    
+}
+
+
+
+
+
+.popup_text_a{
+    position: absolute;
+    top: 50px;
+    
+    right: 450px;
+    color: #f41616;  
+    font-size: 40px; 
+}
+
+
+.popup_texywq{
+    position: absolute;
+    font-size: 40px; 
+    color: #f41616;
+    bottom: 470px;
+    right: 300px;
+}
+
+.yoinput{
+
+    position: absolute;
+    color: #000;
+    bottom: 350px;
+    left: 120px;
+    font-size: 20px;    
+}
+
+.textnumberin{
+    position: absolute;
+    color: #000;
+    bottom: 380px;
+    left: 180px; 
+    font-size: 20px;
+}
+
+.redferinpt {
+    font-size: 20px;
+    position: absolute;
+    color: #000;
+    bottom: 330px;
+    right: 120px;
+}
+
+
+.typiclainput {
+    font-size: 20px;
+    position: absolute;
+    color: #000;
+    bottom: 230px;
+    right: 520px;
+}
+.fairinput{
+    font-size: 20px;
+    position: absolute;
+    color: #000;
+    bottom: 300px;
+    right: 100px;
+}
+
+.lateinput {
+    font-size: 20px;
+    position: absolute;
+    color: #000;
+    bottom: 200px;
+    right: 500px;
+}
+
+.paraginput {
+    font-size: 20px;
+    position: absolute;
+    color: #000;
+    top: 120px;
+    left: 45px;
+}
+
+
+.textinput {
+    position: absolute;
+    color: #000;
+    font-size: 20px;
+    top: 220px;
+    left: 120px;
+}
+
+
+.textfuninput{
+    position: absolute;
+    color: #000;
+    right: 100px;
+    top: 120px;
+    font-size: 20px;
+}
+
+.funinput{
+    font-size: 20px;
+    position: absolute;
+    color: rgb(252, 0, 0);
+    top: 150px;
+    left: 50px;
+}
+
+.popinput {
+    font-size: 20px;
+    position: absolute;
+    color: rgb(255, 0, 0);
+    top: 250px;
+    left: 120px;
+}
+
+
+.gypopinput{
+    font-size: 20px;
+   position: absolute;
+    color: rgb(255, 0, 0);
+    top: 150px;
+    right: 125px;
+
+}
+
+
+
+.nav_lineba{
+    position: absolute;
+    vertical-align: top;
+    top: 50px;
+    left: 0px;
+    right: 10px;
+    width: 960px;
+}
+
+.theendinp{
+    position: absolute;
+    display: flex;
+    align-items: flex-end;
+    border: 2px solid #9B1111;
+    bottom: 10px;
+    right: 310px;
+    color: #000;
+}
+
+.theendinp:hover {
+    background-color: #9B1111;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
