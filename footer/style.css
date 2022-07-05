@@ -1,0 +1,214 @@
+body {
+    
+    background-color: #000;
+    margin: auto;
+}
+
+
+
+
+a {
+    
+    text-decoration: none;
+    
+}
+
+
+li {
+    
+     list-style-type: none;
+    
+}
+
+footer {
+    
+     height: 430px; 
+     border-top: 1px solid;
+     border-top-color: #950000;
+}
+
+
+.footer_link_a {
+    
+    font-family: Montserrat;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 100px;
+    margin-bottom: 25px;
+    padding-right: 0px;
+    width: auto;
+    
+}
+
+
+
+
+.footer_link_a:hover {
+    
+    color: #950000;
+  
+}
+
+
+
+.footer_link_b {
+    
+    font-family: Montserrat;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+    margin-left: 0px;
+    padding-left: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 25px;
+    
+    
+}
+
+.footer_link_b_gm {
+    
+    font-family: Montserrat;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 100px;
+    padding-bottom: 65px;
+   
+    
+}
+
+.paragraph {
+    
+    color: #fff;
+    font-size: 25px;
+    margin: 0;
+    font-family: Montserrat;
+    font-weight: 600;
+    padding-top: 46px;
+    padding-bottom: 25px;
+    margin-left: 100px;
+    
+}
+
+.col_mnu_footer {
+    
+    display: flex;
+    
+}
+ 
+
+.f_logo_prava {
+    
+    
+    color: #fff;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    padding-top: 98px;
+    padding-left: 195px;
+    
+}
+
+
+
+.footer_link_conf{
+    
+    margin-top: 94px;
+    margin-left: 100px;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #fff;
+}
+
+.f_logo_name {
+    
+    
+    color: #fff;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    padding-left: 240px;
+}
+
+
+.f_logo_img {
+    
+    padding-top: 25px;
+    padding-left: 263px;
+    
+    display: block;
+    margin-right: 20px;
+}
+
+
+.f_media_m {
+    
+    display: flex;
+    
+    
+}
+
+
+
+f_media_ico {
+    
+    padding-top: 100px;
+    
+    
+    
+}
+
+
+
+.f_contact {
+    
+    padding-left: 50px;
+    
+} 
+
+
+
+
+.section {
+    
+    
+    height: 1080px;
+    width: 1920px;
+    background: url(../images/17.jpg) center no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
